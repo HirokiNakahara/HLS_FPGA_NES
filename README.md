@@ -4,6 +4,8 @@ An FPGA NES emulator designed by a high level synthesis (HLS)
 ## これは何  
 NESエミュレータのソースコード一式. Vivado HLS2015.1で合成しました.
 
+[FPGAエクストリームコンピューティングで発表した資料](https://www.slideshare.net/HirokiNakahara1/fps530000-51179724)
+
 Developed by Hiroki Nakahara
  31, July, 2015
 
